@@ -1,4 +1,4 @@
-# SummarizeTube
+# SummarizeMe
 
 It a web application to summarise long YouTube videos by utilising YouTube's transcript feature and also capable to translate that summarised text into multiple languages.
 
@@ -18,16 +18,4 @@ It a web application to summarise long YouTube videos by utilising YouTube's tra
 - Paste the link and see the magic.
 
 
-## Interface
-<img width="1440" alt="Screenshot 2023-07-11 at 8 23 50 AM" src="https://github.com/amanullahmd12/youtube-transcript-summarizer-webapp/assets/92320933/065726e1-5ea1-4129-9c68-8500698bf0be">
 
-
-
-
-
-<img width="1440" alt="Screenshot 2023-07-11 at 8 28 03 AM" src="https://github.com/amanullahmd12/youtube-transcript-summarizer-webapp/assets/92320933/3beb346d-6408-4eed-a512-b3e8ce0411ce">
-
-
-
-  
-<img width="1440" alt="Screenshot 2023-07-11 at 8 28 21 AM" src="https://github.com/amanullahmd12/youtube-transcript-summarizer-webapp/assets/92320933/a465b97b-90f5-46d9-bcd1-78f2062f2d99">
